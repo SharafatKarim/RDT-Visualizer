@@ -45,7 +45,7 @@ No external dependencies are required. The project uses Python's standard librar
 
    ```bash
    git clone https://github.com/SharafatKarim/RDT-Visualizer
-   cd RDT-SelectiveRepeat-vs-GoBackN
+   cd RDT-Visualizer
    ```
 
 2. **Ensure Python 3.8+ is installed**:
