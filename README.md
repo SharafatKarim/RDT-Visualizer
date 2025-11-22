@@ -6,6 +6,8 @@
 
 A comprehensive Python implementation of Reliable Data Transfer protocols, featuring **Go-Back-N (GBN)** and **Selective Repeat (SR)**. This project provides a hands-on simulation environment to understand how reliable communication is achieved over an unreliable channel, handling packet loss, corruption, delay, and reordering.
 
+<img width="1022" height="752" alt="image" src="https://github.com/user-attachments/assets/0a07f0f0-dc3e-4ea9-a6c7-2381a0ba7837" />
+
 ## 🚀 Features
 
 - **Protocol Implementation**: Full implementation of Go-Back-N and Selective Repeat protocols.
